@@ -38,3 +38,6 @@ st.plotly_chart(scatter_fig)
 
 st.header("Bar Plot")
 st.plotly_chart(bar_fig)
+
+st.header("Bar Plot")
+st.plotly_chart(clust)
